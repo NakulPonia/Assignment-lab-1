@@ -1,6 +1,6 @@
 using Assignment1;
 
-PROGRAM 1-
+PROGRAM 1
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +29,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 2-
+PROGRAM 2
 namespace Assignment1
 {
     internal class Program
@@ -54,7 +54,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 3-
+PROGRAM 3
 
 using System;
 using System.Collections.Generic;
@@ -89,7 +89,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 4-
+PROGRAM 4
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -128,7 +128,7 @@ namespace Assignment1
         }
     }
 }
-PROGRAM 5-
+PROGRAM 5
 
 using System;
 using System.Collections.Generic;
@@ -169,7 +169,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 6-
+PROGRAM 6
 
 using System;
 using System.Collections.Generic;
@@ -203,7 +203,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 7-
+PROGRAM 7
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -245,7 +245,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 8-
+PROGRAM 8
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -293,7 +293,7 @@ namespace Assignment1
     }
 }
 
-PROGRAM 9-
+PROGRAM 9
 
 using System;
 using System.Collections.Generic;
@@ -350,7 +350,7 @@ namespace Assignment1
 
 
 
-PROGRAM 10-
+PROGRAM 10
 
 using System;
 using System.Collections.Generic;
