@@ -1,15 +1,10 @@
-using Assignment1;
 
-PROGRAM 1
+
+// PROGRAM 1
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program1
     {
         static void Main(string[] args)
         {
@@ -29,10 +24,10 @@ namespace Assignment1
     }
 }
 
-PROGRAM 2
+// PROGRAM 2
 namespace Assignment1
 {
-    internal class Program
+    internal class Program2
     {
         static void Main(string[] args)
         {
@@ -54,17 +49,11 @@ namespace Assignment1
     }
 }
 
-PROGRAM 3
-
+//PROGRAM 3
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program3
     {
         static void Main(string[] args)
         {
@@ -89,16 +78,11 @@ namespace Assignment1
     }
 }
 
-PROGRAM 4
+// PROGRAM 4
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program4
     {
         static void Main(string[] args)
         {
@@ -128,17 +112,12 @@ namespace Assignment1
         }
     }
 }
-PROGRAM 5
 
+// PROGRAM 5
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program5
     {
         static void Main(string[] args)
         {
@@ -169,17 +148,11 @@ namespace Assignment1
     }
 }
 
-PROGRAM 6
-
+// PROGRAM 6
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program6
     {
         static void Main(string[] args)
         {
@@ -203,16 +176,11 @@ namespace Assignment1
     }
 }
 
-PROGRAM 7
+// PROGRAM 7
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program7
     {
         static void Main(string[] args)
         {
@@ -245,16 +213,11 @@ namespace Assignment1
     }
 }
 
-PROGRAM 8
+// PROGRAM 8
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program8
     {
         static void Main(string[] args)
         {
@@ -293,17 +256,11 @@ namespace Assignment1
     }
 }
 
-PROGRAM 9
-
+// PROGRAM 9
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program9
     {
         static void Main(string[] args)
         {
@@ -350,17 +307,11 @@ namespace Assignment1
 
 
 
-PROGRAM 10
-
+// PROGRAM 10
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Assignment1
 {
-    internal class Program
+    internal class Program10
     {
         static void Main(string[] args)
         {
